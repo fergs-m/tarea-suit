@@ -1,6 +1,6 @@
 @font-face{
     font-family: "letraTexto";
-    src: url(../font/Prompt-Regular.ttf) format("truetype");
+    src: url(../font/prompt-v10-latin-regular.woff2) format("truetype");
 }
 
 :root{
